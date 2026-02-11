@@ -1,5 +1,7 @@
 # eveco8.github.io
 
+This project provided me an opportunity to build something with AI assistance. Check out my [AI Usage Document](https://docs.google.com/document/d/1v4BeX5RWoxIVNigN6x9iDEu33D37tFOXXVu6N3ELq5o/edit?tab=t.0) to see how I used AI on this project.
+
 # Question 1
 
 Share one technical concept that you developed greater mastery over in this project. Demonstrate how you understand that concept by sharing your mental model of the concept. Then, show how you used that concept in your project.
